@@ -1,0 +1,32 @@
+,"NOTA
+ MÁXIMA","NOTA 
+AUTO-EVALUADA 
+POR ALUMNO
+(RELLENAR SOLO 
+ESTA COLUMNA
+Y la de Observaciones)","NOTA 
+EVALUADA 
+PROFE",OBSERVACIONES (Opcional)
+Captura de Netbeans y Xampp,1,,1,
+Captura del Dashboard (donde se visualiza la versión de XAMPP),1,,1,
+"Captura de los comentarios en el foro
+Y calidad del comentario",1,,1,
+"Correcto funcionamiento 
+De la app en cualquier directorio sin necesidad de adaptaciones (rutas relativas)","0,5",,0.5,
+Menú de la cabecera y pie,"0,5",,0.5,
+"Correcta precarga de datos correctos,
+ Reales y erróneos","0,5",,0.5,
+Conserva los datos introducidos tras error y permite modificarlos,"0,5",,0.5,
+"Formato al dinero (€ con 2 decimales). Cálculo correcto de la edad. Correcta explicación de los módulos aprobados, etc.","0,5",,0.5,
+Validación de datos según tipo,"0,5",,0.5,
+Placeholder y filtrado correcto,"0,5",,0.5,
+"Autoevaluación.php
+Cálculo correcto de notas de alumno
+Y profesor.
+Presentación correcta de los ítems.
+Observaciones",2,,2,
+Estética y organización de la app,"0,5",,0.5,
+"Estructuración del código (uso de funciones, inclusión de ficheros externos, documentación del código, variables intuitivas, optimización,…)","0,5",,0.5,
+Extra de creatividad y originalidad,"0,5",,0.5,
+"Número de errores o cosas que faltan del enunciado de la tarea (Resta 0,2p por cada fallo)",0,,0,
+Total,10,0,10,
